@@ -5,6 +5,10 @@
     <a href="https://itsme-peter.github.io/portfolio">Portfolio</a>
 </div>
 
+
+-
+-
+-
 - 👋 Hi, I’m @itsme-Peter
 - 👀 I’m interested in secure code development.
 - 🌱 I’m currently learning application security
