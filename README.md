@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning application security
 - 💞️ Let's engage and learn
 
-<img src="https://itsme-peter.github.io/portfolio/static/images/work2.jpg">
+<img src="https://itsme-peter.github.io/portfolio/static/images/work2.jpg" style="margin:auto;">
 <a href="https://itsme-peter.github.io/portfolio">Portfolio</a>
 <!---
 itsme-Peter/itsme-Peter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
