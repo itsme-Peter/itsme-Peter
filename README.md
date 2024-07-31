@@ -1,13 +1,12 @@
+<div align="center">
+  <img src="https://itsme-peter.github.io/portfolio/static/images/work2.jpg">
+  <a href="https://itsme-peter.github.io/portfolio">Portfolio</a>
+</div>
+
 - 👋 Hi, I’m @itsme-Peter
 - 👀 I’m interested in secure code development.
 - 🌱 I’m currently learning application security
 - 💞️ Let's engage and learn
-
-<div align="center">
-<img src="https://itsme-peter.github.io/portfolio/static/images/work2.jpg" style="margin-left:100px;">
-<a href="https://itsme-peter.github.io/portfolio">Portfolio</a>
-  
-</div>
 
 
 <!---
