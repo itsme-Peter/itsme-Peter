@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://itsme-peter.github.io/portfolio/static/images/work2.jpg">
+  <img src="https://itsme-peter.github.io/portfolio/static/images/work2.jpg"/>
   <a href="https://itsme-peter.github.io/portfolio">Portfolio</a>
 </div>
 
